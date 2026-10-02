@@ -3,6 +3,12 @@
   "displayName": "Dimidium Theme",
   "description": "A terminal based theme for vscode",
   "version": "0.0.1",
+  "publisher": "yahiabsk",
+  "icon": "assets/Dimidium.webp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yahiaBSK/dimidium-theme"
+  },
   "engines": {
     "vscode": "^1.138.0"
   },
