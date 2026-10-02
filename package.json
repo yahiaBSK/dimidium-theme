@@ -2,7 +2,7 @@
   "name": "dimidium-theme",
   "displayName": "Dimidium Theme",
   "description": "A terminal based theme for vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "yahiabsk",
   "icon": "assets/Dimidium.webp",
   "repository": {
